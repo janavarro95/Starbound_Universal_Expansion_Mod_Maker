@@ -1,4 +1,5 @@
-Starbound_Universal_Expansion_Mod_Maker
+
+Starbound Universal Expansion Mod Maker
 =======================================
 
 A mod creation tool for Starbound written with C#.
