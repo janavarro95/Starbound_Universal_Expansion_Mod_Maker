@@ -1,8 +1,9 @@
 Starbound_Universal_Expansion_Mod_Maker
+=======================================
 (or SUEMM pronounced sum) 
 Author: janavarro95
 Version: 0.0.1 Alpha Alpaca (for unstable builds of Starbound)
-=======================================
+------------------------------------------
 First Alpha Release!
 
 This program is designed to easily create mods for starbound. Simply fill in the desired information,
