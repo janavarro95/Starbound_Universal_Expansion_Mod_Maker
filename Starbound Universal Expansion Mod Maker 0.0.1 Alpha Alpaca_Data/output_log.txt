@@ -1,0 +1,85 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Joshua\Desktop\Starbound Universal Expansion Mod Maker 0.0.1 Alpha Alpaca_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Joshua\Desktop\Starbound Universal Expansion Mod Maker 0.0.1 Alpha Alpaca_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Joshua\Desktop\Starbound Universal Expansion Mod Maker 0.0.1 Alpha Alpaca_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Joshua\Desktop\Starbound Universal Expansion Mod Maker 0.0.1 Alpha Alpaca_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Joshua\Desktop\Starbound Universal Expansion Mod Maker 0.0.1 Alpha Alpaca_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Joshua\Desktop\Starbound Universal Expansion Mod Maker 0.0.1 Alpha Alpaca_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.067 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Joshua\Desktop\Starbound Universal Expansion Mod Maker 0.0.1 Alpha Alpaca_Data\Managed\System.Core.dll (this message is harmless)
+Hey World!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.304623 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 137.
+Total: 0.647499 ms (FindLiveObjects: 0.007463 ms CreateObjectMapping: 0.008863 ms MarkObjects: 0.096098 ms  DeleteObjects: 0.007930 ms)
+
+UnloadTime: 0.492155 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 152.
+Total: 1.114930 ms (FindLiveObjects: 0.015860 ms CreateObjectMapping: 0.015860 ms MarkObjects: 0.160941 ms  DeleteObjects: 0.005597 ms)
+
+Starbound not in default location loacation. Extracting to desktop.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.374597 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 140.
+Total: 0.887745 ms (FindLiveObjects: 0.012128 ms CreateObjectMapping: 0.011662 ms MarkObjects: 0.136217 ms  DeleteObjects: 0.004198 ms)
+
+Hey World!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.390925 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 141.
+Total: 0.965650 ms (FindLiveObjects: 0.014461 ms CreateObjectMapping: 0.013528 ms MarkObjects: 0.153944 ms  DeleteObjects: 0.005131 ms)
+
+Starbound not in default location loacation. Extracting to desktop.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.430577 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 151.
+Total: 1.252547 ms (FindLiveObjects: 0.016793 ms CreateObjectMapping: 0.015860 ms MarkObjects: 0.183800 ms  DeleteObjects: 0.005597 ms)
+
+Hey World!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.435709 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 142.
+Total: 1.271673 ms (FindLiveObjects: 0.013994 ms CreateObjectMapping: 0.015394 ms MarkObjects: 0.201993 ms  DeleteObjects: 0.005597 ms)
+
+UnloadTime: 0.492155 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 140.
+Total: 1.332318 ms (FindLiveObjects: 0.017260 ms CreateObjectMapping: 0.018193 ms MarkObjects: 0.208991 ms  DeleteObjects: 0.008863 ms)
+
+Hey World!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
